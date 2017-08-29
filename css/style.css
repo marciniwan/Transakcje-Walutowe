@@ -1,0 +1,9 @@
+body {
+  padding-left: 50px;
+}
+.close {
+  font-size: 25px;
+  color: red;
+  position: absolute;
+  left: 0px;
+}
